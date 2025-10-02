@@ -20,12 +20,11 @@
 
 ```typescript
 const esa = {
-    location: "Depok, West Java, Indonesia",
+    location: "Bogor, West Java, Indonesia",
     education: "SMK Informatika Pesat - Software Engineering",
-    currentFocus: ["Full-Stack Development", "Backend Architecture", "TypeScript"],
-    learning: ["NestJS", "DevOps", "Microservices"],
-    askMeAbout: ["Web Dev", "React", "Laravel", "Next.js"],
-    funFact: "I debug code faster than I debug my life choices 😄"
+    currentFocus: ["Frintend Development", "Backend Delevopment"],
+    learning: ["NestJS", "Prisma", "NextJS"],
+    askMeAbout: ["F1", "Moblie Legends", "Avenged Sevenfold", "Drumming"],
 };
 ```
 
